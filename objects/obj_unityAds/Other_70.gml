@@ -42,7 +42,7 @@ if (ds_exists(async_load, ds_type_map)) {
 			
 			// if the placementID is e.g. myInterstitialID then we know that a interstitial video was show -> so we set the flag to false
 			global.interstitialReady = _placement == myInterstitialID ? false : global.interstitialReady;
-			global.rewardReady |= _placement == myRewardedID ? false : global.rewardReady;
+			global.rewardReady = _placement == myRewardedID ? false : global.rewardReady;
 			
 			show_debug_message("Unity Ads has shown: " + _placement)
 			
