@@ -38,7 +38,7 @@
                     "mvc": "1.0",
                     "constantName": "FinishState_ERROR",
                     "hidden": false,
-                    "value": "\"0\""
+                    "value": "\"ERROR\""
                 },
                 {
                     "id": "d1a1de74-7045-444e-a358-edee2c0ccd5f",
@@ -46,7 +46,7 @@
                     "mvc": "1.0",
                     "constantName": "FinishState_SKIPPED",
                     "hidden": false,
-                    "value": "\"1\""
+                    "value": "\"SKIPPED\""
                 },
                 {
                     "id": "fc5447e0-5346-40d1-a4d0-b285c19ecbef",
@@ -54,7 +54,7 @@
                     "mvc": "1.0",
                     "constantName": "FinishState_COMPLETED",
                     "hidden": false,
-                    "value": "\"2\""
+                    "value": "\"COMPLETED\""
                 },
                 {
                     "id": "755bcbcc-7b4e-4fd8-88da-67062f6c6b9e",
@@ -62,7 +62,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_NOT_INITIALIZED",
                     "hidden": false,
-                    "value": "\"0\""
+                    "value": "\"NOT_INITIALIZED\""
                 },
                 {
                     "id": "975e6d89-f954-4f81-b345-078458b78917",
@@ -70,7 +70,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_kINITIALIZE_FAILED",
                     "hidden": false,
-                    "value": "\"1\""
+                    "value": "\"kINITIALIZE_FAILED\""
                 },
                 {
                     "id": "224184d5-6aad-41a9-9908-caa402f3ef06",
@@ -78,7 +78,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_INVALID_ARGUMENT",
                     "hidden": false,
-                    "value": "\"2\""
+                    "value": "\"INVALID_ARGUMENT\""
                 },
                 {
                     "id": "613d33fb-66fb-43db-a50a-3de3dc64ce0f",
@@ -86,7 +86,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_VIDEO_PLAYER_ERROR",
                     "hidden": false,
-                    "value": "\"3\""
+                    "value": "\"VIDEO_PLAYER_ERROR\""
                 },
                 {
                     "id": "a90cdd0f-6504-4fa2-8f3b-3678cd862206",
@@ -94,7 +94,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_INIT_SANITY_CHECK_FAIL",
                     "hidden": false,
-                    "value": "\"4\""
+                    "value": "\"INIT_SANITY_CHECK_FAIL\""
                 },
                 {
                     "id": "e71f6787-9d31-4a7f-837f-053f9ff8c59a",
@@ -102,7 +102,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_AD_BLOCKER_DETECTED",
                     "hidden": false,
-                    "value": "\"5\""
+                    "value": "\"AD_BLOCKER_DETECTED\""
                 },
                 {
                     "id": "5cb5352c-d6e0-49dc-8699-3ff9bba2739f",
@@ -110,7 +110,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_FILE_IO_ERROR",
                     "hidden": false,
-                    "value": "\"6\""
+                    "value": "\"FILE_IO_ERROR\""
                 },
                 {
                     "id": "bd57a544-de49-45ac-97a2-98322f2a48b9",
@@ -118,7 +118,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_DEVICE_ID_ERROR",
                     "hidden": false,
-                    "value": "\"7\""
+                    "value": "\"DEVICE_ID_ERROR\""
                 },
                 {
                     "id": "f97d4265-d8b5-4138-be2d-d8a8f0e89076",
@@ -126,7 +126,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_SHOW_ERROR",
                     "hidden": false,
-                    "value": "\"8\""
+                    "value": "\"SHOW_ERROR\""
                 },
                 {
                     "id": "82d2f66a-aee6-41b8-870f-994df7dc777b",
@@ -134,7 +134,7 @@
                     "mvc": "1.0",
                     "constantName": "UnityAdsError_INTERNAL_ERROR",
                     "hidden": false,
-                    "value": "\"9\""
+                    "value": "\"INTERNAL_ERROR\""
                 }
             ],
             "copyToTargets": -1,
